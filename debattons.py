@@ -3,9 +3,8 @@
 
 
 
-from PIL import Image, ImageTk
+
 import tkinter as tk
-import tkinter.messagebox
 
 class Application(tk.Frame):
     
